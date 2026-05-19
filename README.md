@@ -28,9 +28,9 @@
 
 ## 📌 Projects
 
-| Project | Description            | Tech |
-| ------- | ---------------------- | ---- |
-| 팀플재판소    | 더 나은 팀플 문화를 지향합니다. | Python3 + JavsScript    |
+| Project | Description        | Tech                |
+| ------- | ------------------ | ------------------- |
+| 팀플재판소   | 더 나은 팀플 문화를 지향합니다. | Python3, JavaScript |
 
 ## 📚 Currently Learning
 
@@ -42,16 +42,15 @@
 
 ## 📊 GitHub Stats
 
-<!-- 아래 USERNAME을 본인의 GitHub 아이디로 변경하세요. -->
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=12302a\&show_icons=true\&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12302a\&layout=compact)
 
 ## 📫 Contact
 
-<!-- 공개하고 싶은 연락처만 남기세요. -->
-
 * GitHub: [@12302a](https://github.com/12302a)
 * Email: [support@tfjudge.com](mailto:support@tfjudge.com)
 
+---
+
+꾸준히 배우고 기록하며, 더 좋은 개발자가 되기 위해 노력하고 있습니다. 🚀
