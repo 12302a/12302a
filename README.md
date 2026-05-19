@@ -1,9 +1,58 @@
-- 👋 안녕하세요, 저는 @12302a 입니다.
-- 👀 저는 Java와 Python, Lua에 관심있답니다.
-- 🌱 저는 아직 Java와 Lua를 배우고 있어요. 
-- 📫 Discord 12302a#5252, 12302a@naver.com으로 연락주실 수 있습니다.
+# 안녕하세요, 12302a입니다 👋
 
-<!---
-12302a/12302a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> 컴퓨터공학을 전공하며 꾸준히 성장하고 있는 개발자 지망생입니다.
+
+## 🙋‍♂️ About Me
+
+* 🎓 Computer Science Major
+* 💻 관심 분야: Backend, Web, Software Engineering
+* 🌱 현재 꾸준히 학습하며 프로젝트 경험을 쌓고 있습니다.
+* 🧠 문제를 분석하고, 더 나은 구조로 개선하는 것을 좋아합니다.
+* 🤝 함께 성장하는 개발 문화를 지향합니다.
+
+## 🛠 Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+## 📌 Projects
+
+| Project | Description            | Tech |
+| ------- | ---------------------- | ---- |
+| 준비 중    | 진행한 프로젝트를 여기에 추가해 주세요. | -    |
+| 준비 중    | 프로젝트 설명을 간단히 적어 주세요.   | -    |
+
+## 📚 Currently Learning
+
+* 자료구조와 알고리즘
+* 객체지향 프로그래밍
+* 웹 개발 기초
+* Git/GitHub 협업 방식
+* 데이터베이스와 백엔드 구조
+
+## 📊 GitHub Stats
+
+<!-- 아래 USERNAME을 본인의 GitHub 아이디로 변경하세요. -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=12302a\&show_icons=true\&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12302a\&layout=compact)
+
+## 📫 Contact
+
+<!-- 공개하고 싶은 연락처만 남기세요. -->
+
+* GitHub: [@12302a](https://github.com/12302a)
+* Email: [support@tfjudge.com](mailto:support@tfjudge.com)
+
